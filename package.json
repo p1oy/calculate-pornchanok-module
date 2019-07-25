@@ -1,0 +1,14 @@
+{
+  "name": "calculator-pornchanok",
+  "version": "0.0.1",
+  "description": "Test my node module package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pornchanok Suksankawanich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
