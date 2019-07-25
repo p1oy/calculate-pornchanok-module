@@ -10,6 +10,9 @@ NewLine : enter two times.
 - substract
 
 ## Way for using
+
+You must install node before. [download Here](https://nodejs.org/en/download/).
+
 JavaScript : 
 ```js
 const calculator = require('calculator-pornchanok');
