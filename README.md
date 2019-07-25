@@ -29,3 +29,20 @@ Python :
 ```py
 print("python")
 ```
+
+
+picture
+- open issue
+- upload image in part of write post
+- wait upload
+- copy codeand put in readme
+
+![download (1)](https://user-images.githubusercontent.com/32811720/61846466-6c4e9d00-aed1-11e9-8d20-d0e996b53658.jpg)
+
+
+open another file
+- คุมคำ 
+- click right and choose toggle hyberlink
+- type path
+
+[open support](/Support.md)
