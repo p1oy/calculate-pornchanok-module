@@ -15,6 +15,13 @@ JavaScript :
 const calculator = require('calculator-pornchanok');
 ```
 
+### วิธีการบวก
+สำหรับการบวก ให้ใช้คำสั่ง `plus()`
+
+```js
+calculator.plus(12,2);//14
+```
+
 Python : 
 ```py
 print("python")
